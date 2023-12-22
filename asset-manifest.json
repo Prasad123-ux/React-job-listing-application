@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-job-listing-application/static/css/main.a150b299.css",
-    "main.js": "/React-job-listing-application/static/js/main.19363226.js",
+    "main.css": "/React-job-listing-application/static/css/main.d2f4281a.css",
+    "main.js": "/React-job-listing-application/static/js/main.af00767d.js",
     "static/js/787.28cb0dcd.chunk.js": "/React-job-listing-application/static/js/787.28cb0dcd.chunk.js",
-    "static/media/loader.gif": "/React-job-listing-application/static/media/loader.115521628c8df5860a5a.gif",
+    "static/media/loader2.gif": "/React-job-listing-application/static/media/loader2.bf1a39ec369d812436fa.gif",
     "index.html": "/React-job-listing-application/index.html",
-    "main.a150b299.css.map": "/React-job-listing-application/static/css/main.a150b299.css.map",
-    "main.19363226.js.map": "/React-job-listing-application/static/js/main.19363226.js.map",
+    "main.d2f4281a.css.map": "/React-job-listing-application/static/css/main.d2f4281a.css.map",
+    "main.af00767d.js.map": "/React-job-listing-application/static/js/main.af00767d.js.map",
     "787.28cb0dcd.chunk.js.map": "/React-job-listing-application/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a150b299.css",
-    "static/js/main.19363226.js"
+    "static/css/main.d2f4281a.css",
+    "static/js/main.af00767d.js"
   ]
 }
